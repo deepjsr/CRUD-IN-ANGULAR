@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 27,
+      "firstName": "Cart@@nn",
+      "lastName": "Character",
+      "email": "char@gmail.com",
+      "mobile": "4475866985",
+      "salary": "125455"
+    },
+    {
+      "id": 28,
+      "firstName": "horennumol",
+      "lastName": "kakati",
+      "email": "har@gmail.com",
+      "mobile": "4425466578",
+      "salary": "112502"
+    },
+    {
+      "id": 31,
+      "firstName": "Vardhan",
+      "lastName": "Adityaa",
+      "email": "vadhan@smail.com",
+      "mobile": "9987555266",
+      "salary": "457560"
+    },
+    {
+      "id": 32,
+      "firstName": "vijay",
+      "lastName": "s",
+      "email": "vijay@gmail.com",
+      "mobile": "7798562552",
+      "salary": "100000000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
