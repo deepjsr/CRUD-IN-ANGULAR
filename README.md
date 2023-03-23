@@ -14,16 +14,23 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Running Locally
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**1. Clone Repo**
 
-## Running end-to-end tests
+```bash
+git clone https://github.com/deepjsr/CRUD-IN-ANGULAR.git
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**2. Install Dependencies**
+
+```bash
+npm i
+```
 
 ## For JSON SERVER
 
+```bash
 Run `npm install -g json-server` to  Install JSON Server.
 Run `json-server --watch db.json` to Start JSON Server.
-
+```
